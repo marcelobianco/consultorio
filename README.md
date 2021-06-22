@@ -9,5 +9,9 @@
 
 ## About Laravel Clinic
 
+Instalar as Dependências -> Composer install
+Gerar a key -> php artisan key:generate
+Rodar o script do banco de dado -> php artisan migrate
+
 Projeto desenvolvido para aplicação de conceitos de back-end e front-end.<br>
 Não foi levado muito em conta o design do sistema mas sim boas práticas.
