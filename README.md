@@ -9,5 +9,5 @@
 
 ## About Laravel Clinic
 
-Projeto desenvolvido para aplicação de conceitos de back-end e front-end.
+Projeto desenvolvido para aplicação de conceitos de back-end e front-end.<br>
 Não foi levado muito em conta o design do sistema mas sim boas práticas.
